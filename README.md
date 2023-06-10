@@ -1,5 +1,9 @@
 ## Movie_recommendation
 
-###  Output :
+###  Output 1 :
 
-![Output](https://github.com/userharshada/Movie_recommendation/assets/123437523/e35fbe84-343e-45d4-95c2-8e28147b0eaa)
+![output 1](https://github.com/userharshada/Movie_recommendation/assets/123437523/5704463f-c4da-4088-be8b-a3cd5306678b)
+
+###  Output 2 :
+
+![output 2](https://github.com/userharshada/Movie_recommendation/assets/123437523/2487e54f-d660-4fbc-aa6f-d154df80371d)
